@@ -31,22 +31,3 @@ const SimpleSlider = () => {
 };
 
 export default SimpleSlider;
-
-// https://github.com/leandrowd/react-responsive-carousel / https://www.npmjs.com/package/react-responsive-carousel
-// git clone
-// https://www.npmjs.com/package/react-responsive-carousel
-// npm install react-responsive-carousel
-// node_modules/
-//   /react-responsive-carousel :
-//     /index.js [export A, B, C]
-//
-// import { A, B, C } from 'react-responsive-carousel';
-// *믹서기*.. 믹서기 안에 넣고 돌린다.
-// 통:
-// 돌림
-
-// create-react-app
-// npm ~~~~~~~~~~~~~~
-
-// import useState from 'react'
-//
